@@ -1,0 +1,1 @@
+/Users/maximilian/Documents/3web/web-development/sol-metadt/token_metadata/tokendt/target/sbf-solana-solana/release/hello_world.so: /Users/maximilian/Documents/3web/web-development/sol-metadt/token_metadata/tokendt/src/lib.rs

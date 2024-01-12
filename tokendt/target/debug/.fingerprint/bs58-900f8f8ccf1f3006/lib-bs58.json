@@ -1,0 +1,1 @@
+{"rustc":4443399816165520464,"features":"[\"alloc\", \"default\", \"std\"]","target":18352831503079783019,"profile":16209747773763956088,"path":17457733640515065218,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bs58-900f8f8ccf1f3006/dep-lib-bs58"}}],"rustflags":[],"metadata":13637435404263704389,"config":2202906307356721367,"compile_kind":0}
