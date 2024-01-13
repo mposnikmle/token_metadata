@@ -1,0 +1,10 @@
+/Users/maximilian/Documents/3web/web-development/sol-metadt/token_metadata/tokendt/target/debug/deps/libmemoffset-fe3c6d6ad992ff5f.rmeta: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/maximilian/Documents/3web/web-development/sol-metadt/token_metadata/tokendt/target/debug/deps/libmemoffset-fe3c6d6ad992ff5f.rlib: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/maximilian/Documents/3web/web-development/sol-metadt/token_metadata/tokendt/target/debug/deps/memoffset-fe3c6d6ad992ff5f.d: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs:
